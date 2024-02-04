@@ -1,3 +1,5 @@
+theme: jekyll-theme-minimal
+
 # H1
 ## H2
 ### H3
